@@ -55,10 +55,10 @@
 <h2><i>My top projects</i></h2>
 <p align="left">
     <a href="https://github.com/hozaifask/to-do-list" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=To-Do List Application&color=000000&logo=blog&logoColor=FFFFFF&label=" alt="To-Do List Application" />
+        <img src="https://github.com/hozaifask/hozaifask/assets/139784567/2bba1b78-5227-4cb8-827d-2e4475291655" alt="To-Do List Application" />
     </a>
     <a href="https://github.com/hozaifask/weatherapp" target="blank">
-        <img src="https://github.com/hozaifask/hozaifask/assets/139784567/46175966-262d-4f89-b7ce-f04e0b97d7a1" alt="WeatherApp" />
+        <img src="https://github.com/hozaifask/hozaifask/assets/139784567/2955d420-5837-497f-b890-f759bb37e8cd" alt="WeatherApp" />
     </a>
     
    </p>
