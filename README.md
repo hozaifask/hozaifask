@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hozaifask.hozaifask" />
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ Hozaifa Shaikh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hozaifa+Shaikh!;" />
 </h1>
 
 
@@ -55,7 +55,7 @@
 <h2><i>My top projects</i></h2>
 <p align="left">
     <a href="https://github.com/hozaifask/to-do-list" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog Application&color=000000&logo=blog&logoColor=FFFFFF&label=" alt="To-Do List Application" />
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=To-Do List Application&color=000000&logo=blog&logoColor=FFFFFF&label=" alt="To-Do List Application" />
     </a>
     <a href="https://github.com/hozaifask/weatherapp" target="blank">
         <img src="https://github.com/hozaifask/hozaifask/assets/139784567/46175966-262d-4f89-b7ce-f04e0b97d7a1" alt="WeatherApp" />
@@ -81,11 +81,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=touqeer001&show_icons=true&locale=en&layout=compact"&theme=dark  alt="touqeer001"/></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hozaifask&show_icons=true&locale=en&layout=compact"&theme=dark  alt="hozaifask"/></p>
   <br/>
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=touqeer001&show_icons=true&locale=en" alt="touqeer001" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hozaifask&show_icons=true&locale=en" alt="hozaifask" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=touqeer001&" alt="touqeer001" border_radius=0&theme=dark/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hozaifask&" alt="hozaifask" border_radius=0&theme=dark/></p>
 </div>
 
 <br/><br/>
@@ -96,17 +96,14 @@
 
 
 <p>
-    <a href="https://github.com/Touqeer001/Blog-Web-Application-Using-Mern-Stack.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Touqeer001&repo=Blog-Web-Application-Using-Mern-Stack&locale=en&border_radius=0&theme=dark" alt="Touqeer001" />
+    <a href="https://github.com/hozaifask/OIBSIP.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hozaifask&repo=OIBSIP&locale=en&border_radius=0&theme=dark" alt="hozaifask" />
     </a>
-    <a href="https://github.com/Touqeer001/E-Commerce-Using-MERN-Stack.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Touqeer001&repo=E-Commerce-Using-MERN-Stack&locale=en&border_radius=0&theme=dark" alt="Touqeer001" />
+    <a href="https://github.com/hozaifask/to-do-list.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hozaifask&repo=To-Do List&locale=en&border_radius=0&theme=dark" alt="hozaifask" />
     </a>
-<a href="https://github.com/Touqeer001/Weather-web-base-application.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Touqeer001&repo=Weather-web-base-application&locale=en&border_radius=0&theme=dark" alt="Touqeer001" />
-    </a>
-    <a href="https://github.com/Touqeer001/MyPortfolio.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Touqeer001&repo=MyPortfolio&locale=en&border_radius=0&theme=dark" alt="Touqeer001" />
+<a href="https://github.com/hozaifask/weatherapp.git">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hozaifask&repo=Weather-web-base-application&locale=en&border_radius=0&theme=dark" alt="hozaifask" />
     </a>
     
     
