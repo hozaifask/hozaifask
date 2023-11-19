@@ -100,10 +100,11 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hozaifask&repo=OIBSIP&locale=en&border_radius=0&theme=dark" alt="hozaifask" />
     </a>
     <a href="https://github.com/hozaifask/to-do-list.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hozaifask&repo=To-Do List&locale=en&border_radius=0&theme=dark" alt="hozaifask" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?
+username=hozaifask&repo=to-do-list&locale=en&border_radius=0&theme=dark" alt="hozaifask" />
     </a>
 <a href="https://github.com/hozaifask/weatherapp.git">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hozaifask&repo=Weather-web-base-application&locale=en&border_radius=0&theme=dark" alt="hozaifask" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hozaifask&repo=weatherapp&locale=en&border_radius=0&theme=dark" alt="hozaifask" />
     </a>
     
     
