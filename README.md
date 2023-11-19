@@ -1,10 +1,8 @@
 
-
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hozaifask.hozaifask" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ Hozaifa Shaikh!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+ Hozaifa Shaikh!;" />
 </h1>
 
 
@@ -30,11 +28,8 @@
   <a href="https://www.linkedin.com/in/hozaifa-shaikh/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://my-portfolio-iota-coral.vercel.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
     <a>
-         <a href="https://drive.google.com/file/d/1zxvHJ195b_iGcwjiUKTt_6DL84pKVEus/view?usp=sharing" target="_blank">
+         <a href="https://drive.google.com/file/d/10-f2raj49n3oSOa9c1y2Yh4Ata4cTSZU/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=Resume&logoColor=white" target="_blank" />
     </a>
     
@@ -48,38 +43,24 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
     <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
     <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
-    <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+
 </p>
 <br>
 <!-----------------------------------Projet-------------------------------------->
 <h2><i>My top projects</i></h2>
 <p align="left">
-    <a href="https://github.com/Touqeer001/Blog-Web-Application-Using-Mern-Stack.git" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog Application&color=000000&logo=blog&logoColor=FFFFFF&label=" alt="Blog-Web Application" />
+    <a href="https://github.com/hozaifask/to-do-list" target="blank">
+        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Blog Application&color=000000&logo=blog&logoColor=FFFFFF&label=" alt="To-Do List Application" />
     </a>
-    <a href="https://github.com/Touqeer001/E-Commerce-Using-MERN-Stack.git" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=E-Commerce Using MERN Stack&color=1BB91F&logo=tmux&logoColor=FFFFFF&label=" alt="E-Commerce Using MERN Stack" />
+    <a href="https://github.com/hozaifask/weatherapp" target="blank">
+        <img src="https://github.com/hozaifask/hozaifask/assets/139784567/46175966-262d-4f89-b7ce-f04e0b97d7a1" alt="WeatherApp" />
     </a>
-    <a href="https://github.com/Touqeer001/Weather-web-base-application.git" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Weather App&color=FD3A5C&logo=hotjar&logoColor=FFFFFF&label=" alt="Weather-App" />
-    </a>
- 
-   
- <a href="https://github.com/Touqeer001/MyPortfolio.git" target="blank">
-        <img src="https://img.shields.io/static/v1?style=for-the-badge&message=MyPortfolio&color=1a78f4&logo=portfolio&logoColor=FFFFFF&label=" alt="MyPortfolio" />
-    </a>
+    
    </p>
 <br>
 
